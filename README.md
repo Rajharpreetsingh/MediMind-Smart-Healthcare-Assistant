@@ -7,6 +7,8 @@ MediMind is a smart healthcare management system designed to securely store and 
 ### 🧠 MediMind – Smart Healthcare Assistant
 
 **MediMind** is an intelligent healthcare management system designed to simplify medical data handling and enhance patient care through smart technology. It provides a centralized platform for storing, managing, and analyzing patient information efficiently.
+
+
 link:https://medimind.zya.me/
 ---
 
