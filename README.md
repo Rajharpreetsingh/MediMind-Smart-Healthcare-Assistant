@@ -12,6 +12,9 @@ MediMind is a smart healthcare management system designed to securely store and 
 link:https://medimind.zya.me/
 ---
 
+
+<img width="2213" height="1133" alt="image" src="https://github.com/user-attachments/assets/47765c6c-6320-4978-b82c-8cb07ab5468c" />
+
 ### 🚀 Features
 
 * 👤 **User Authentication System**
@@ -30,6 +33,9 @@ link:https://medimind.zya.me/
   Ensures safe handling of sensitive medical information.
 
 ---
+
+<img width="2235" height="1168" alt="image" src="https://github.com/user-attachments/assets/cd2c27c6-7c69-449d-af12-2186bc90ae03" />
+
 
 ### 🛠️ Tech Stack
 
